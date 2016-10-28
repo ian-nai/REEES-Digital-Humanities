@@ -7,7 +7,7 @@
 **The Journal of Digital Humanities** (http://journalofdigitalhumanities.org/) - A peer-reviewed, academic journal covering the digital humanities.
 
 
-#h2 Guides for Scraping:
+## Guides for Scraping:
 
 **A guide to web Scraping with Beautiful Soup** - http://web.stanford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html
 
