@@ -7,7 +7,8 @@
 **KinoKultura** - http://www.kinokultura.com/
 
 **Russian Law Journal** (http://www.russianlawjournal.org/jour/issue/archive) - An independent, professional journal that covers recent legal developments not only in the Russian Federation, but also on international and comparative level. 
- 
+
+**Digital Icons** - http://www.digitalicons.org/
  
 ## In Various Languages: 
 
