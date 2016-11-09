@@ -9,6 +9,9 @@
 **Russian Law Journal** (http://www.russianlawjournal.org/jour/issue/archive) - An independent, professional journal that covers recent legal developments not only in the Russian Federation, but also on international and comparative level. 
 
 **Digital Icons** - http://www.digitalicons.org/
+
+**Studi Slavistici** - http://www.fupress.net/index.php/ss
+ 
  
 ## In Various Languages: 
 
@@ -16,13 +19,32 @@
 
 **Slavic Languages and Societies Commons** - http://network.bepress.com/arts-and-humanities/slavic-languages-and-societies/
  
-**Directory of Open Access Scholarly Resources**: http://road.issn.org/
- 
- 
+**Directory of Open Access Scholarly Resources** - http://road.issn.org/
+
+**Slavia Centralis** - http://slaviacentralis.uni-mb.si/home/
+
+**Acta Baltico-Slavica** - https://ispan.waw.pl/journals/index.php/abs/index
+
+**Studia z Filologii Polskiej i Słowiańskiej** - https://ispan.waw.pl/journals/index.php/sfps/index
+
+
 ## In Russian: 
 
 **CyberLeninka (http://cyberleninka.ru/)** - A scientific electronic library, the main objectives of which are to promote science and research activities, public control of the quality of scientific publications and development of modern institute of scientific review.  
- 
 **Russian Open Medical Journal** (http://www.romj.org/) - An international, peer-reviewed, open access e-journal.
 
- 
+**Problemy Istoričeskoj Poètiki** - http://poetica.pro/
+
+## In Polish:
+
+**Poznańskie Studia Polonistyczne. Seria Literacka** - http://pressto.amu.edu.pl/index.php/pspsl
+
+
+## In Croatian:
+
+**Rasprave: Časopis Instituta za Hrvatski Jezik i Jezikoslovlje** - http://ihjj.hr/stranica/rasprave-casopis-instituta-za-hrvatski-jezik-i-jezikoslovlje/33/
+
+
+## In French:
+
+**Slavica bruxellensia** - http://slavica.revues.org/
