@@ -12,6 +12,8 @@
 
 **Studi Slavistici** - http://www.fupress.net/index.php/ss
  
+**Poljarnyj Vestnik** - http://septentrio.uit.no/index.php/vestnik/index
+
  
 ## In Various Languages: 
 
@@ -27,6 +29,10 @@
 
 **Studia z Filologii Polskiej i Słowiańskiej** - https://ispan.waw.pl/journals/index.php/sfps/index
 
+**Slavistična Revija** - http://www.srl.si/
+
+**Slavia Meridionalis** - https://ispan.waw.pl/journals/index.php/sm/index
+
 
 ## In Russian: 
 
@@ -34,6 +40,7 @@
 **Russian Open Medical Journal** (http://www.romj.org/) - An international, peer-reviewed, open access e-journal.
 
 **Problemy Istoričeskoj Poètiki** - http://poetica.pro/
+
 
 ## In Polish:
 
@@ -43,6 +50,13 @@
 ## In Croatian:
 
 **Rasprave: Časopis Instituta za Hrvatski Jezik i Jezikoslovlje** - http://ihjj.hr/stranica/rasprave-casopis-instituta-za-hrvatski-jezik-i-jezikoslovlje/33/
+
+**Fluminensia** - http://hrcak.srce.hr/fluminensia
+
+
+## In Montenegrin:
+
+**Lingua Montenegrina** - http://www.fcjk.me/lingua-montenegrina
 
 
 ## In French:
