@@ -31,3 +31,5 @@
 **Commons In A Box** (https://github.com/cuny-academic-commons/commons-in-a-box) - A suite of community and collaboration tools for WordPress, designed especially for academic communities.
 
 **Worldcat** (https://github.com/anarchivist/worldcat) - Python module for interacting with OCLC's WorldCat APIs.
+
+**BitCurator** (https://github.com/BitCurator/bitcurator-distro-main) - Tool built on a stack of free and open source digital forensics tools and associated software libraries, modified and packaged for increased accessibility and functionality for collecting institutions
