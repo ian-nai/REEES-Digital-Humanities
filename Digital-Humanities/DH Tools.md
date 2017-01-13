@@ -30,6 +30,8 @@
 
 **Voyant** (http://docs.voyant-tools.org/tools/)- A web-based reading and analysis environment for texts. Text can be uploaded or copied into the text-entry box on the tool's site.
 
+**Gephi** (https://gephi.org/) - Free, open-source visualization and exploration software for graphs and networks.
+
 # Academic Resources
 
 **Project Gutenberg Offline** (https://github.com/kiwix/gutenberg) - A scraper for downloading the entire repository of Project Gutenberg.
