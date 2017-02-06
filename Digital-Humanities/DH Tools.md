@@ -22,6 +22,8 @@
 
 **Annotator.js** (https://github.com/openannotation/annotator/) - Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.
 
+**Natural Language Toolkit** (http://www.nltk.org/) - A leading platform for building Python programs to work with human language data. Includes interfaces for working with over 50 corpora and lexical resources, along with a suite of text processing libraries.
+
 # Data Visualization 
 
 **Kumu** (https://www.kumu.io) - A web-based data visualization tool for the creation of relationship maps.
