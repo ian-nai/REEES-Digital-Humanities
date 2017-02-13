@@ -24,7 +24,7 @@
 
 **Natural Language Toolkit** (http://www.nltk.org/) - A leading platform for building Python programs to work with human language data. Includes interfaces for working with over 50 corpora and lexical resources, along with a suite of text processing libraries.
 
-**MeTA Toolkit** (https://github.com/meta-toolkit/meta) - A C++ data sciences toolkit featuring topic and language models, graph and classification algorithms, UTF8 support, and more.
+**MeTA Toolkit** (https://github.com/meta-toolkit/meta) - A C++ data sciences toolkit featuring topic and language models, graph and classification algorithms, UTF-8 support, and more.
 
 # Data Visualization 
 
