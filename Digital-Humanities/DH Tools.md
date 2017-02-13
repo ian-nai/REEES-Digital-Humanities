@@ -44,6 +44,8 @@
 
 **BitCurator** (https://github.com/BitCurator/bitcurator-distro-main) - Tool built on a stack of free and open source digital forensics tools and associated software libraries, modified and packaged for increased accessibility and functionality for collecting institutions.
 
+**Blacklight** (https://github.com/projectblacklight/blacklight) - An open source Solr user interface discovery platform originally developed at the University of Virginia Library. Blacklight can be used to enable searching and browsing of library collections.
+
 
 # Slavic Language Support for Programmers
 
