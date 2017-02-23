@@ -36,6 +36,8 @@
 
 **Gephi** (https://gephi.org/) - Free, open-source visualization and exploration software for graphs and networks.
 
+**Cytoscape** (http://www.cytoscape.org/) - Cytoscape is an open source software platform for visualizing molecular interaction networks and biological pathways and integrating these networks with annotations, gene expression profiles and other state data (Windows only).
+
 # Academic Resources
 
 **Project Gutenberg Offline** (https://github.com/kiwix/gutenberg) - A scraper for downloading the entire repository of Project Gutenberg.
