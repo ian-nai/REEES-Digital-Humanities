@@ -38,6 +38,8 @@
 
 **Cytoscape** (http://www.cytoscape.org/) - Cytoscape is an open source software platform for visualizing molecular interaction networks and biological pathways and integrating these networks with annotations, gene expression profiles and other state data (Windows only).
 
+**Twine** (https://twinery.org/) - An open-source tool for telling interactive, nonlinear stories. 
+
 # Academic Resources
 
 **Project Gutenberg Offline** (https://github.com/kiwix/gutenberg) - A scraper for downloading the entire repository of Project Gutenberg.
