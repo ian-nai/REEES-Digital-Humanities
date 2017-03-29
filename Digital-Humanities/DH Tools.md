@@ -26,6 +26,10 @@
 
 **MeTA Toolkit** (https://github.com/meta-toolkit/meta) - A C++ data sciences toolkit featuring topic and language models, graph and classification algorithms, UTF-8 support, and more.
 
+**Open Refine** (http://openrefine.org/) - Oftentimes the first step of a DH project is cleaning a dataset. Open Refine allows you to search and clean your data without spending hours correcting problems manually.
+
+**BookWorm** (http://bookworm.culturomics.org/) - Bookworm is a simple tool for analyzing word frequencies and distributions in a given body of text.
+
 # Data Visualization 
 
 **Kumu** (https://www.kumu.io) - A web-based data visualization tool for the creation of relationship maps.
@@ -37,6 +41,12 @@
 **Gephi** (https://gephi.org/) - Free, open-source visualization and exploration software for graphs and networks.
 
 **Cytoscape** (http://www.cytoscape.org/) - Cytoscape is an open source software platform for visualizing molecular interaction networks and biological pathways and integrating these networks with annotations, gene expression profiles and other state data (Windows only).
+
+**SankeyMatic** ( http://sankeymatic.com/) - SankeyMatic helps you build Sankey diagrams. Sankey diagrams are useful for visualizing change over time.
+
+**GPSVisualizer** (http://www.gpsvisualizer.com/) - GPSVisualizer accepts nearly any filetype that contains geo coded data and lets you overlay that data onto google maps.
+
+**CartoDB** (https://cartodb.com/) - CartoDB is a user-friendly web app for turning data into maps. If you are unsure where to start with the process of visualizing geographic data, this tool is worthy of your investigation. 
 
 # Academic Resources
 
@@ -56,3 +66,19 @@
 **Russian for Ruby and Rails** (https://github.com/yaroslav/russian) - Russian language support for Ruby and Rails.
 
 **Unicode-encoded OpenType fonts for Church Slavonic** (https://github.com/typiconman/fonts-cu) - OpenType fonts for Church Slavonic.
+
+
+# Publishing Tools
+
+**Sigil** (http://sigil-ebook.com/) - Sigil is an easy-to-use tool for creating ebooks.
+
+**Scalar** (http://scalar.usc.edu/) - Scalar aims to transform the way academics share their research. The tool allows users to create media-rich, interactive articles. 
+
+
+
+
+
+
+
+
+
