@@ -12,6 +12,7 @@
 
 **Webscraper.io** (http://webscraper.io/) - Free Chrome extension to scrape webpages.
 
+
 # Data and Text Analysis
 
 **Voyant** (http://docs.voyant-tools.org/tools/)- A web-based reading and analysis environment for texts. Text can be uploaded or copied into the text-entry box on the tool's site.
@@ -30,6 +31,7 @@
 
 **BookWorm** (http://bookworm.culturomics.org/) - Bookworm is a simple tool for analyzing word frequencies and distributions in a given body of text.
 
+
 # Data Visualization 
 
 **Kumu** (https://www.kumu.io) - A web-based data visualization tool for the creation of relationship maps.
@@ -47,6 +49,9 @@
 **GPSVisualizer** (http://www.gpsvisualizer.com/) - GPSVisualizer accepts nearly any filetype that contains geo coded data and lets you overlay that data onto google maps.
 
 **CartoDB** (https://cartodb.com/) - CartoDB is a user-friendly web app for turning data into maps. If you are unsure where to start with the process of visualizing geographic data, this tool is worthy of your investigation. 
+
+**Twine** (https://twinery.org/) - An open-source tool for telling interactive, nonlinear stories. 
+
 
 # Academic Resources
 
