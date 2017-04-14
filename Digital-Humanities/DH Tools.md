@@ -36,7 +36,7 @@
 
 **Kumu** (https://www.kumu.io) - A web-based data visualization tool for the creation of relationship maps.
 
-**StoryMap JS** (https://storymap.knightlab.com/) and ArcGIS Story Maps (https://storymaps.arcgis.com/en/) - Both useful resources for the creation of interactive, narrative mapping interfaces.
+**StoryMap JS** (https://storymap.knightlab.com/) and **ArcGIS Story Maps** (https://storymaps.arcgis.com/en/) - Both useful resources for the creation of interactive, narrative mapping interfaces.
 
 **Voyant** (http://docs.voyant-tools.org/tools/)- A web-based reading and analysis environment for texts. Text can be uploaded or copied into the text-entry box on the tool's site.
 
@@ -78,12 +78,3 @@
 **Sigil** (http://sigil-ebook.com/) - Sigil is an easy-to-use tool for creating ebooks.
 
 **Scalar** (http://scalar.usc.edu/) - Scalar aims to transform the way academics share their research. The tool allows users to create media-rich, interactive articles. 
-
-
-
-
-
-
-
-
-
